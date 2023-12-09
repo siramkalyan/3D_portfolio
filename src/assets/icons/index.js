@@ -26,6 +26,9 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import mfl from './mfl.png'
+import tcs from './tcs.png'
+import ai from './ai.svg'
 
 export {
     css,
@@ -55,5 +58,8 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
+    mfl,
+    tcs,
+    ai
 }
