@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://siramkalyan.github.io/3D_portfolio",
+  "homepage": "https://siramkalyan.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
